@@ -1,0 +1,6 @@
+Stakeland checker by https://t.me/cookiejunkieeth
+
+Usage guide:
+1. Insert your wallet addresses to wallet.txt, each from new line
+2. node main
+3. Check rewarded.txt for eligible accounts and staked amounts 
